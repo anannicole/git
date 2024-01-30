@@ -2,6 +2,11 @@
 using namespace std;
 int main ()
 {
-cout <<"hola"<<;
+    int edad;
+cout <<"hola, ingresa tu edad"<<endl;
+cin >>edad;
+cout << edad;
+
+
     return 0;
 }
